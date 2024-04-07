@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rene Guzman</h1>
 <h3 align="center">I'm a data analytics enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on Machine Learning analytics tools.
+
+- 🌱 I’m currently learning **Agile Project Management**
 
 - 💬 Ask me about **R, Python, Tableau,Power BI, SQL, Excel**
 
